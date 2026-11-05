@@ -1,0 +1,10 @@
+# Build output
+build/
+*.bin
+*.elf
+*.map
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
